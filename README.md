@@ -1,2 +1,3 @@
 # NICAR16_training
-sample repository
+simple repo
+
