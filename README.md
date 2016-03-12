@@ -3,4 +3,4 @@ simple repo
 
 :thumbsup:
 
-This is complete. The end.
+This is complete. Fin.
